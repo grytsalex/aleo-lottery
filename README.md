@@ -1,8 +1,10 @@
 # lottery.aleo
 
-```VARIABLE discordName = "grytsalex"
+```js
+VARIABLE discordName = "grytsalex"
 VARIABLE discordId = 354622425306103808
-DISPLAY "My discord name is: ${discordName},  and discord ID is ${discordId}"```
+DISPLAY "My discord name is: ${discordName},  and discord ID is ${discordId}"
+```
 
 ## Run Guide
 
